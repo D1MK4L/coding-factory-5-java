@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Πρόγραμμα που ελέγχει εάν
  * το έτος είναι δίσεκτο ή όχι
  *
- * @author DK
+ * @author D1MK4L
  */
 public class BisectApp {
 
