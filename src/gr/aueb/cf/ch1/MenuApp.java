@@ -3,7 +3,7 @@ package gr.aueb.cf.ch1;
 /**
  * Homework1 Menu Creation
  *
- * @author DK
+ * @author D1MK4L
  */
 public class MenuApp {
 
