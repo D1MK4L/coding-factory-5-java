@@ -4,7 +4,7 @@ package gr.aueb.cf.ch1;
  * Program that calculates the sum
  * of 2 different variables
  *
- * @author DK
+ * @author D1MK4L
  */
 public class SumApp {
 
