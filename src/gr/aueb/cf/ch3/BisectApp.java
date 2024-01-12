@@ -21,14 +21,9 @@ public class BisectApp {
             Scanner in = new Scanner(System.in);
             System.out.print("Δώσε με ακέραιο αριθμό το έτος: ");
             year = in.nextInt();
-            if (year % CONT1 > 0) { //Συνθήκη ελέγχου δίσεκτου 'ετους
-
-            } else if (year % CONT2 > 0) {
-
-            } else if (year % CONT3 == 0) {
+            if ((year % CONT1 == 0) && (year % CONT2 > 0) || (year % CONT3 == 0)) { //Συνθήκη ελέγχου δίσεκτου 'ετους
                 bisect = true;
             }
-
             if (!bisect) {
                 System.out.println("το " + year + " δεν είναι δίσεκτο!");
 
