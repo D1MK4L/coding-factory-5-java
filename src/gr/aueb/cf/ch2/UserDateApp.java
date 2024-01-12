@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  *   Program
+ *
+ * @author D1MK4L
  */
 public class UserDateApp {
 

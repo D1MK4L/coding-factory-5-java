@@ -9,7 +9,7 @@ import java.util.Scanner;
  * the program searches for the User's given number and
  * continues with a different Array each time until user gives "0".
  *
- * @author DK
+ * @author D1MK4L
  */
 public class ArrayRepetitiveIndexRange {
 

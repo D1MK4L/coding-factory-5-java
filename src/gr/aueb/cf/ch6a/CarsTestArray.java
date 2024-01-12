@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  *  Homework to calculate the max number of parked cars
  *
- * @author DK
+ * @author D1MK4L
  */
 public class CarsTestArray {
 

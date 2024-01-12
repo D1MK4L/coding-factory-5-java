@@ -3,7 +3,7 @@ package gr.aueb.cf.ch5;
  * stars Menu program by using methods and arrays
  * and case for selection
  *
- * @author DK
+ * @author D1MK4L
  */
 
 import java.util.Scanner;

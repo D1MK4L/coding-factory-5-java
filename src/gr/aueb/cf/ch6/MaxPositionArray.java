@@ -8,7 +8,7 @@ import java.util.Scanner;
  * and also the second low number and its position.
  * The program repeats until user gives "1" for exit
  *
- * @author DK
+ * @author D1MK4L
  */
 public class MaxPositionArray {
 

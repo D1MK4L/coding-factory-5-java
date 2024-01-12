@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Homework  Ch4 :All 5 programs in one
  *  by using also function "case" as a selection
  *
- * @author DK
+ * @author D1MK4L
  */
 public class StarsMenuApp {
 

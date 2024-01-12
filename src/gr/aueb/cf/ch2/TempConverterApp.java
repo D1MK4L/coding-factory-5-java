@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Program that convert the temperature
  * from Fahrenheit to Celsius scale.
  *
- * @author DK
+ * @author D1MK4L
  */
 public class TempConverterApp {
 

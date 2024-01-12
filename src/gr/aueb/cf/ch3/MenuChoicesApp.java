@@ -8,7 +8,7 @@ import java.util.Scanner;
  * and is executed for as long as
  * the choice is not 5
  *
- * @author DK
+ * @author D1MK4L
  */
 public class MenuChoicesApp {
 

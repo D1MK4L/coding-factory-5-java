@@ -7,7 +7,7 @@ import java.util.Scanner;
  * by using two methods, one method for coding a message,
  * and one method for Decoding a message.
  *
- * @author DK
+ * @author D1MK4L
  */
 public class CoderDecoderApp {
 

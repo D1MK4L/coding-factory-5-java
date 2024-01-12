@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Homework program that takes 6 numbers given from a user
  * and passes them from a sequences of number filtering.
  *
- * @author DK
+ * @author D1MK4L
  */
 public class NumberFilterApp {
 
