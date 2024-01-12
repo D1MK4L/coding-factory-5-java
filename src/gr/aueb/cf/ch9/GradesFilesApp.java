@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets;
  * One for formatted names surnames and average grades
  * and one for error entries.
  *
- * @author DK
+ * @author D1MK4L
  */
 public class GradesFilesApp {
 
