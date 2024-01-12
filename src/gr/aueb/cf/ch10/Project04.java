@@ -4,6 +4,12 @@ import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * noughts and crosses
+ * console play.
+ * with some spaghetti code!!!!!
+ * @author D1MK4L
+ */
 public class Project04 {
 
     public static void main(String[] args) {
