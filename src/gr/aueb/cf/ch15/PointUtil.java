@@ -23,7 +23,7 @@ public class PointUtil {
      * Returns the point
      *
      * @param point The point
-     * @return          Origin
+     * @return          The Origin
      */
     public static double distanceFromOrigin(Point point) {
         System.out.println(point);
