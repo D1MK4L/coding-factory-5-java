@@ -1,4 +1,4 @@
-package gr.aued.cf.homeworks.ch17.Hm1;
+package gr.aueb.cf.ch17.Hm1;
 
 import java.io.Serializable;
 
